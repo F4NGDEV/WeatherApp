@@ -24,4 +24,4 @@ Pressure -  {response["main"]["pressure"]} hPa
   """)
 
 else:
-  print("Location Invalid")
+  print("An error occured. Please check your location or try again later.")
